@@ -4,7 +4,7 @@ aesara @ file:///home/conda/feedstock_root/build_artifacts/aesara_1652147447219/
 anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1666191106763/work/dist
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
 argon2-cffi-bindings @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi-bindings_1666850768662/work
-arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1668621474897/work
+arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1678789125032/work
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1670263926556/work
 atomicwrites==1.4.1
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1671632566681/work
@@ -18,7 +18,7 @@ brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1666764671
 cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1674482203741/work
 CensusData==1.15.post1
-certifi @ file:///croot/certifi_1683875369620/work/certifi
+certifi==2023.5.7
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1671179353105/work
 cftime @ file:///home/conda/feedstock_root/build_artifacts/cftime_1666833854447/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
@@ -51,6 +51,7 @@ geopy==2.3.0
 googlemaps==4.10.0
 graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1658658635601/work
 greenlet==2.0.2
+h5netcdf @ file:///home/conda/feedstock_root/build_artifacts/h5netcdf_1677670132771/work
 h5py @ file:///home/conda/feedstock_root/build_artifacts/h5py_1674498871518/work
 haversine==2.8.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
@@ -128,7 +129,7 @@ pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_16362571
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1672682006896/work
 pygpu==0.7.6
 pymc @ file:///home/conda/feedstock_root/build_artifacts/pymc_1654468015918/work
-pymc3 @ file:///Users/ktietz/demo/mc3/conda-bld/pymc3_1629812637918/work
+pymc3 @ file:///home/conda/feedstock_root/build_artifacts/pymc3_1602091536109/work
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1672659226110/work
 pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
 pyproj==3.5.0
